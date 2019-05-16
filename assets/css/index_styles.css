@@ -14,6 +14,25 @@
     float: left;
 }
 
+.tablinks{
+    padding: 5;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+    background: none;
+
+
+}
+
+.tablinks1{
+    padding: 5;
+    border-left:none;
+    border-right: none;
+    border-bottom:none;
+    border-top: none;
+    background: none;
+}
+
 .About_Me
     { 
         border-bottom: 5px solid lightgray;
